@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "apollo-angular",
+  "version": "0",
   "license": "MIT",
   "scripts": {
     "postinstall": "npm run bootstrap",
